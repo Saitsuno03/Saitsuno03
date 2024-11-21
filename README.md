@@ -3,10 +3,9 @@
 # 💫 About Me:
 I am a game developer and tester proficient in 2D and 3D game development using Unity, 3D design with Blender, and graphic programming with C++ focused on 3D rendering. I am also a scriptwriter, crafting compelling narratives and world-building for games. Additionally, I specialize in game engine development using DirectX for optimized performance and have experience as a voice actor.
 
-- 🔭 I’m currently working on an indie game.
+- 🔭 I’m currently working on Binding-Vow.
 - 🌱 I’m currently learning OpenGL and DirectX
-- 👯 I’m looking to collaborate on game projects, AR & VR projects, 
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on game projects, AR & VR projects 
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: He/Him
 
